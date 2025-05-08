@@ -10,7 +10,6 @@ A minimalist note-taking app built with modern Android development tools.
 - **Add/Edit/Delete** notes
 - **Search** functionality
 - **Dark/Light** theme support
-- **Offline** persistence (Room Database)
 - Clean Material 3 UI
 
 ## 🛠️ Tech Stack
