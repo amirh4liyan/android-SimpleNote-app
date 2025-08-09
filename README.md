@@ -26,4 +26,4 @@ A minimalist note-taking app built with modern Android development tools.
 
 ### Installation
 ```bash
-git clone https://github.com/amirh4liyan/simple-notes-android.git
+git clone https://github.com/amirh4liyan/android-SimpleNote-app.git
